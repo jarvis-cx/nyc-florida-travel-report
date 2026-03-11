@@ -93,3 +93,9 @@
 14. **Footer** — Disclaimer and attribution
 15. **Responsive polish** — Mobile testing, table scroll, nav hamburger
 16. **GitHub Pages deploy config** — `.nojekyll`, `next.config.js` basePath, GitHub Actions workflow
+
+## SETUP Stage - Complete
+- Next.js 14 + Tailwind CSS bootstrapped
+- next.config.js configured with output:export, basePath, assetPrefix
+- vercel.json created
+- npm run build: PASS
