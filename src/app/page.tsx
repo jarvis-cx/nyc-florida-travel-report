@@ -21,10 +21,10 @@ export default function Home() {
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">NYC &amp; Florida Travel Safety Report</h1>
           <p className="text-xl md:text-2xl mb-3" style={{ color: '#c9a227' }}>
-            Easter 2026 — Family of 5 | 4× HKSAR + 1× Canadian Passport
+            Easter 2026 — Family of 6 | 4× HKSAR + 1× Canadian Passport
           </p>
           <p className="text-gray-300 mb-8 text-lg">
-            📅 April 2026 · 🗽 New York City + 🌴 Florida · 👨‍👩‍👧‍👦 2 adults, 3 children (ages 14, 11, 7, 5)
+            📅 April 2026 · 🗽 New York City + 🌴 Florida · 👨‍👩‍👧‍👦 2 adults, 4 children (ages 14, 11, 7, 5)
           </p>
           <span className="inline-block bg-yellow-400 text-yellow-900 font-bold text-lg px-6 py-3 rounded-full">
             🟡 MODERATE RISK — GO WITH PREPARATION
@@ -377,7 +377,7 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <ul className="space-y-3 text-gray-800">
-                  <li className="flex gap-2"><span>💰</span><span>Family of 5, 2 weeks in US: <strong>HK$3,000–$6,000 (US$400–$800)</strong> for comprehensive coverage</span></li>
+                  <li className="flex gap-2"><span>💰</span><span>Family of 6, 2 weeks in US: <strong>HK$3,000–$6,000 (US$400–$800)</strong> for comprehensive coverage</span></li>
                   <li className="flex gap-2"><span>🏥</span><span>Minimum: <strong>US$1,000,000 medical coverage</strong></span></li>
                   <li className="flex gap-2"><span>✈️</span><span>Must cover: medical evacuation, all 5 family members, pre-existing conditions, adventure activities</span></li>
                 </ul>
@@ -665,7 +665,7 @@ export default function Home() {
           </div>
 
           <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 mb-6">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">📊 Daily Budget (Family of 5)</h3>
+            <h3 className="text-xl font-bold text-gray-900 mb-4">📊 Daily Budget (Family of 6)</h3>
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h4 className="font-bold text-gray-700 mb-2">🗽 NYC</h4>
